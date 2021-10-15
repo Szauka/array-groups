@@ -1,0 +1,23 @@
+{
+  "name": "array-groups",
+  "version": "1.0.0",
+  "description": "Coding test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "example": "node ./run-example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szauka/array-groups.git"
+  },
+  "author": "Dumitru Szauka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szauka/array-groups/issues"
+  },
+  "homepage": "https://github.com/Szauka/array-groups#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
